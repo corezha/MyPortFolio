@@ -2,10 +2,9 @@ import React, { useState } from "react";
 import { Link } from "react-scroll";
 import { BiMenu } from "react-icons/bi";
 import { MdClose } from "react-icons/md";
+import { Typewriter } from "react-simple-typewriter";
 import Navlinks from "../data/navlinks";
 import ProfileData from "../data/profile";
-import { Cursor, Typewriter } from "react-simple-typewriter";
-import { hover } from "@testing-library/user-event/dist/hover";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
