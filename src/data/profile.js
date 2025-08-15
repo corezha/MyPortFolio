@@ -1,6 +1,6 @@
 const ProfileData = {
   img: require("../assets/Images/god.png"),
-  name: ["James Zhang", "German"],
+  name: ["James Zhang", "Senior Dev"],
   professions: ["Web Developer", "Free Lancer", "Enthusiastic Dev"],
   info: [
     "Knack of building web applications using MERN stack.",
