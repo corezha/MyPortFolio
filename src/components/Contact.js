@@ -68,8 +68,7 @@ const Contact = () => {
               data-aos-once="false"
               className="flex gap-3 items-center mb-4 md:gap-2 lg:gap-5"
             >
-              <FaPhoneAlt className="text-white" />
-              <p className="text-white md:text-lg ">{ContactData.phone}</p>
+              
             </div>
             <div
               data-aos="fade-right"

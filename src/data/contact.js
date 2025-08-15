@@ -3,29 +3,21 @@ import { FaXTwitter } from "react-icons/fa6";
 
 const ContactData = {
   phone: "+91 9515643851",
-  email: "talakolavijaykumar@gmail.com",
-  address: "Guntur , Andhra Pradesh , India",
+  email: "jameszhang3312@gmail.com",
+  address: "Berlin , Germany",
   links: [
     {
-      url: "https://github.com/VijayKumarReddyTalakola",
+      url: "https://github.com/corezha",
       icon: FaGithub,
     },
     {
-      url: "https://www.linkedin.com/in/vijay-talakola",
+      url: "https://www.linkedin.com/in/jameszhang",
       icon: FaLinkedin,
     },
     {
-      url: "https://discordapp.com/users/talakolavijay",
+      url: "https://discordapp.com/users/Dragon_boy",
       icon: FaDiscord,
-    },
-    {
-      url: "https://www.instagram.com/vijay_talakola",
-      icon: FaInstagram,
-    },
-    {
-      url: "https://twitter.com/talakolavijay",
-      icon: FaXTwitter,
-    },
+    }
   ],
 };
 

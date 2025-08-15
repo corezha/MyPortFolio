@@ -1,7 +1,7 @@
 const ProfileData = {
-  img: require("../assets/Images/hero.png"),
+  img: require("../assets/Images/god.png"),
   logo: require("../assets/Images/Name.png"),
-  name: "Vijay Kumar",
+  name: ["James Zhang", "German"],
   professions: ["Web Developer", "Free Lancer", "Enthusiastic Dev"],
   info: [
     "Knack of building web applications using MERN stack.",

@@ -33,7 +33,7 @@ const Profile = () => {
             className="title-font md:text-3xl text-2xl mb-4 text-center font-medium text-white"
           >
             Hello , I am{" "}
-            <span className="text-dark-orange">{ProfileData.name}</span>
+            <span className="text-dark-orange">{ProfileData.name[0]}</span>
           </h2>
           <div
             data-aos="zoom-in-up"
