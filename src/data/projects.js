@@ -10,7 +10,6 @@ const ProjectsData = [
     icons: [BiLogoReact, BiLogoCss3, SiThemoviedatabase],
     description: "This website provides information about popular , top-rated and upcoming movies.",
     github: "https://github.com/corezha/IMDB",
-    demo: "https://imdb-rho.vercel.app",
   },
   {
     id: "2",
@@ -19,7 +18,6 @@ const ProjectsData = [
     icons: [BiLogoReact, BiLogoTailwindCss, TbApi, TbDatabase],
     description: "This website provides users with all the basic kinds of shopping items.",
     github: "https://github.com/corezha/Ecommerce-Demo",
-    demo: "https://vijay-ecommerce.vercel.app",
   },
   {
     id: "3",
@@ -28,7 +26,6 @@ const ProjectsData = [
     icons: [BiLogoReact, BiLogoTailwindCss, BiLogoFirebase],
     description: "This chat application provides an interface to the users to interact with their friends.",
     github: "https://github.com/corezha/Chat-App",
-    demo: "https://vchat4whisperchat.vercel.app",
   },
   {
     id: "4",
@@ -37,7 +34,6 @@ const ProjectsData = [
     icons: [ BiLogoMongodb, SiExpress, BiLogoReact, BiLogoRedux, BiLogoTailwindCss],
     description: "This application provides an interface for users to track their expenses .",
     github: "https://github.com/corezha/Expense-Tracker",
-    demo: "https://vtrack-expense.vercel.app",
   },
   {
     id: "5",
@@ -46,7 +42,6 @@ const ProjectsData = [
     icons: [TbBrandNextjs, BiLogoTypescript, BiLogoTailwindCss, TbApi],
     description: "This is an online platform that allows users to rent cars for personal or business use.",
     github: "https://github.com/corezha/nextjs-car-rental-app",
-    demo: "https://car-rental-application.vercel.app",
   },
   {
     id: "8",
@@ -55,7 +50,6 @@ const ProjectsData = [
     icons: [TbBrandNextjs, BiLogoTailwindCss, BiLogoMongodb,TbBrandPrisma],
     description: "This application allows users to express their thoughts and experiences through blogs.",
     github: "https://github.com/corezha/Blog-Application",
-    demo: "https://write-ur-blog.vercel.app",
   },
 ];
 

@@ -57,14 +57,7 @@ const Projects = () => {
                   >
                     <FaGithub />
                   </a>
-                  <a
-                    className="text-darkblue text-xl bg-white rounded-full p-2"
-                    href={project.demo}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <FaExternalLinkAlt className="p-[1px]" />
-                  </a>
+                 
                 </div>
               </div>
             </div>
