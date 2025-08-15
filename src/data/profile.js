@@ -1,6 +1,5 @@
 const ProfileData = {
   img: require("../assets/Images/god.png"),
-  logo: require("../assets/Images/Name.png"),
   name: ["James Zhang", "German"],
   professions: ["Web Developer", "Free Lancer", "Enthusiastic Dev"],
   info: [
@@ -8,7 +7,7 @@ const ProfileData = {
     "I enjoy designing tech websites.",
   ],
   resume:
-    "https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx",
+    "https://drive.google.com/drive/u/0/folders/1BANbpndD3Sh-q1p5tFTtXxV5_Iz-OM3E",
 };
 
 export default ProfileData;
