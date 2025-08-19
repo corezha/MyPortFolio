@@ -1,7 +1,7 @@
 const ExperienceData = [
   {
     title: "Software Engineer",
-    company: "Vention",
+    company: "Visions",
     duration: "June 2013 - March 2015",
     description: [
       "Engineered peer-to-peer lending platform modules in Django ( Python) with Celery task queues for automated interest calculations and KYC verification workflows, reducing manual review time by 60%",
@@ -11,7 +11,7 @@ const ExperienceData = [
   },
   {
     title: "Full-Stack Developer",
-    company: "Software Development Hub ( SDH)",
+    company: "F12",
     duration: "April 2015 - September 2019",
     description: [
       "Developed secure online banking portal features using Angular, Spring Boot ( Java), and PostgreSQL, implementing two-factor authentication ( 2FA) and AES- 256 encryption for sensitive transactions, ensuring compliance with PCI DSS and ISO 27001 standards.",
@@ -22,7 +22,7 @@ const ExperienceData = [
   },
   {
     title: "Mid-Level Full-Stack Developer",
-    company: "Innowise",
+    company: "CGI",
     duration: "October 2019 - February 2022",
     description: [
       "Developed a responsive online booking system using Vue.js, Laravel ( PHP) , and MySQL, integrating real-time seat and room availability via RESTful APIs. Implemented input validation with JavaScript ES6 to reduce booking errors by 25%.",
@@ -32,7 +32,7 @@ const ExperienceData = [
   },
   {
     title: "Senior Full-Stack Developer",
-    company: "SoftServe",
+    company: "Fidelity Investments(Remote)",
     duration: "March 2022 - July 2025",
     description: [
       "Built and optimized a React-based multi-vendor marketplace front-end, implementing dynamic product filtering and lazy loading, which improved page load times by 35% and increased average session duration",
